@@ -1,0 +1,15 @@
+body{ 
+display:flex;
+}
+
+.slider{
+	width: 800px;
+	height:500px;
+	border-radius:0px;
+	overflow: hidden;
+	
+}
+.slides{
+	width:500%;
+	height:500px;
+	display:flex;
